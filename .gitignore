@@ -1,0 +1,15 @@
+# Large / sensitive files that should not be committed
+raw/assets/
+*.pdf
+*.mp4
+*.mp3
+*.wav
+*.mov
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/cache
