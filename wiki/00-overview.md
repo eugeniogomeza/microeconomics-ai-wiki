@@ -1,7 +1,7 @@
 ---
 title: Wiki Overview
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 category: meta
 tags: [overview, meta, synthesis]
 status: active
@@ -24,11 +24,19 @@ AI is most productively understood as (1) a prediction technology with microecon
 - [[joshua-gans]] — Economic framework
 - [[networkchuck]] — Practical agent infrastructure
 - [[krish-naik]] — Education and skill-building
-- [[nous-research]] — Open-source agent research
+- [[nous-research]] — Open-source agent research (Hermes)
 - [[josh-starmer]] — Statistical foundations and ML pedagogy
 - [[andrej-karpathy]] — Deep learning from first principles, transformer implementations
 - [[karoly-zsolnai-feher]] — AI research awareness and paper summaries
 - [[harrison-kinsley]] — Practical Python ML implementation and coding
+- [[anthropic]] — AI safety company, Claude creator, enterprise training
+- [[factory]] — Enterprise agent-native dev platform ($1.5B Series C)
+- [[skills-sh]] — Open agent skills ecosystem (419K+ installs)
+- [[docker]] — Container platform, MCP servers, hardened images
+- [[kubernetes]] — Container orchestration, CNCF graduated project
+- [[linus-sebastian]] — Consumer tech education and hardware coverage
+- [[openclaw]] — Open-source personal AI assistant
+- [[peter-steinberger]] — OpenClaw creator; joined OpenAI Feb 2026
 
 ## Key Concepts
 
@@ -54,17 +62,19 @@ AI is most productively understood as (1) a prediction technology with microecon
 
 ## Recently Updated
 
-- [[two-minute-papers-channel]] — AI/ML research paper summaries (Károly Zsolnai-Fehér)
-- [[two-minute-papers-nerf]] — Neural Radiance Fields paper summary
-- [[two-minute-papers-text-to-image]] — Text-to-image diffusion model summaries
-- [[sentdex-channel]] — Practical Python ML and neural networks from scratch (Harrison Kinsley)
-- [[sentdex-neural-networks-scratch]] — Neural networks implemented from scratch in NumPy
-- [[sentdex-reinforcement-learning]] — Q-learning and DQN with OpenAI Gym
+- [[anthropic-learn]] — Anthropic Learn: AI Fluency, API, Claude Code courses
+- [[hermes-agent-website]] — Hermes Agent product page with full feature breakdown
+- [[openclaw-website]] — OpenClaw testimonials, press coverage, install guides
+- [[factory-ai-website]] — Factory agent-native dev platform ($150M Series C)
+- [[skills-sh-directory]] — Skills.sh directory: 419K+ installs, 20+ agents supported
+- [[docker-website]] — Docker MCP, hardened images, agent orchestration
+- [[kubernetes-website]] — Kubernetes Spanish official site, CNCF case studies
+- [[linus-tech-tips-channel]] — Linus Tech Tips channel overview and network
 
 ## Stats
 
-- Sources ingested: 32
-- Entities: 30
+- Sources ingested: 40
+- Entities: 40
 - Concepts: 18
 - Questions: 1
 - Outputs: 1

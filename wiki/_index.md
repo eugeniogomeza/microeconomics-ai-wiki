@@ -17,6 +17,16 @@ A catalog of all pages in this knowledge base. Organized by category.
 
 ## Sources
 
+- [[anthropic-learn]] — AI Learning Resources & Guides from Anthropic (Academy)
+- [[hermes-agent-website]] — Hermes Agent official product page (persistent memory, multi-platform)
+- [[openclaw-website]] — OpenClaw official site (personal AI assistant, testimonials, press)
+- [[factory-ai-website]] — Factory.ai agent-native software development platform
+- [[skills-sh-directory]] — Skills.sh open agent skills ecosystem (419K+ installs)
+- [[linus-tech-tips-channel]] — Linus Tech Tips YouTube channel overview
+- [[docker-website]] — Docker platform (containers, MCP, hardened images)
+- [[kubernetes-website]] — Kubernetes Spanish official site (container orchestration)
+- [[tina-huang-channel]] — Tina Huang YouTube shorts (TikTok stub from earlier ingest)
+- [[welchlabs-tiktok]] — Welch Labs TikTok shorts (stub from earlier ingest)
 - [[networkchuck-hermes-agent]] — Hermes agent review and installation tutorial (NetworkChuck)
 - [[very-normal-monte-carlo]] — Monte Carlo simulation crash course (Very Normal)
 - [[krish-naik-channel]] — Data science & AI education channel overview
@@ -52,6 +62,15 @@ A catalog of all pages in this knowledge base. Organized by category.
 
 ## Entities
 
+- [[anthropic]] — AI safety company, creator of Claude
+- [[hermes-agent]] — Open-source AI agent harness from Nous Research
+- [[factory]] — Enterprise agent-native development platform (Droid)
+- [[skills-sh]] — Open agent skills directory/ecosystem
+- [[linus-sebastian]] — Creator of Linus Tech Tips
+- [[linus-media-group]] — Production company behind LTT
+- [[docker]] — Container platform (expanded into MCP and hardened images)
+- [[kubernetes]] — Container orchestration platform (CNCF graduated)
+- [[peter-steinberger]] — Creator of OpenClaw; joined OpenAI in Feb 2026
 - [[networkchuck]] — Technology educator and YouTuber
 - [[krish-naik]] — Data science educator and YouTuber
 - [[joshua-gans]] — Economist, author of Microeconomics of AI
@@ -119,4 +138,4 @@ A catalog of all pages in this knowledge base. Organized by category.
 
 ---
 
-*Last updated: 2026-05-25*
+*Last updated: 2026-05-26*

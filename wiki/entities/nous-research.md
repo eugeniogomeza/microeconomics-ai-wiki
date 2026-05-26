@@ -1,7 +1,7 @@
 ---
 title: Nous Research
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 category: entity
 tags: [organization, ai-research, open-source, models, agents]
 status: active
@@ -43,6 +43,8 @@ Nous Research's origin story is a group of independent researchers on Discord ex
 ## Appears In
 
 - [[networkchuck-hermes-agent]] — NetworkChuck switched to Hermes after extensive use; interviewed Jeff Quesnelle.
+- [[hermes-agent-website]] — Official product page with full feature breakdown
+- [[skills-sh-directory]] — Hermes Agent listed as a supported agent platform
 
 ## Agent Notes
 

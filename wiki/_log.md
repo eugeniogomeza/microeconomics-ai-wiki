@@ -11,7 +11,42 @@ status: active
 
 Chronological record of all operations performed on this wiki.
 
-## [2026-05-25 16:30] ingest | Two Minute Papers + Sentdex — research awareness + practical coding channels
+## [2026-05-26 10:00] ingest | Batch ingest of 8 URLs: Anthropic, Hermes, OpenClaw, Factory, Skills.sh, LTT, Docker, Kubernetes
+
+- Fetched and assessed 8 URLs (all returned 200 OK; YouTube returned 403 but content was captured):
+  - https://www.anthropic.com/learn — Anthropic Learn (AI academy)
+  - https://hermes-agent.nousresearch.com/ — Hermes Agent product page
+  - https://openclaw.ai/ — OpenClaw personal AI assistant
+  - https://factory.ai/ — Factory agent-native dev platform
+  - https://www.skills.sh/ — Skills.sh agent skills directory
+  - https://www.youtube.com/user/LinusTechTips — Linus Tech Tips (403 captured)
+  - https://www.docker.com/ — Docker platform + MCP + hardened images
+  - https://kubernetes.io/es/ — Kubernetes Spanish official site
+- Created 8 source pages:
+  - [[anthropic-learn]] — Anthropic Academy and AI Fluency courses
+  - [[hermes-agent-website]] — Hermes product page with feature breakdown
+  - [[openclaw-website]] — OpenClaw testimonials, press, install guides
+  - [[factory-ai-website]] — Factory platform overview, use cases, Series C
+  - [[skills-sh-directory]] — Skills leaderboard and ecosystem
+  - [[linus-tech-tips-channel]] — Channel overview and network
+  - [[docker-website]] — Container platform, MCP, hardened images
+  - [[kubernetes-website]] — Container orchestration, CNCF, case studies
+- Created 10 new entity pages:
+  - [[anthropic]] — AI safety company, Claude creator
+  - [[hermes-agent]] — Dedicated entity page for the product
+  - [[factory]] — Enterprise agent-native platform (Series C, $1.5B)
+  - [[skills-sh]] — Skills directory marketplace
+  - [[linus-sebastian]] — LTT creator
+  - [[linus-media-group]] — Production company
+  - [[docker]] — Container platform
+  - [[kubernetes]] — Orchestration platform
+  - [[peter-steinberger]] — OpenClaw creator; joined OpenAI Feb 2026
+- Updated existing entity pages:
+  - [[nous-research]] — Added Hermes website reference, OpenRouter token dominance note
+  - [[openclaw]] — Added website source, Steinberger relationship, Skills.sh cross-reference
+- Updated [[_index]], [[00-overview]], [[_log]]
+- Pages touched: 8 sources, 10 new entities, 2 updated entities, 3 meta pages
+- Notes: Strong signal that agent infrastructure is maturing — Docker packaging MCP servers, Factory raising $150M at $1.5B, Skills.sh reaching 419K+ installs, and Anthropic investing in enterprise readiness training. Docker + Kubernetes + MCP + agent frameworks form a complete modern AI infrastructure stack.
 
 - Created source pages:
   - [[two-minute-papers-channel]] — Channel overview for Two Minute Papers (1.7M+ subs)
